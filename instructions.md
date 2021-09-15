@@ -1,3 +1,4 @@
+![](https://github.com/BastianWang11/vimms-gui/blob/42ec986d48f8ce24cce219f99e9cfe7bd93d1ec5/logo.png)
 # Virtual Metabolomics Mass Spectrometer
 
 ------
