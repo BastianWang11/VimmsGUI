@@ -1,10 +1,10 @@
-<h3 style="text-align:left">Virtual Metabolomics Mass Spectrometer </h3>
+### Virtual Metabolomics Mass Spectrometer
 
 ------
 
-###### a programmable and modular framework that simulates fragmentation strategies in tandem mass spectrometry-based metabolomics
+#### a programmable and modular framework that simulates fragmentation strategies in tandem mass spectrometry-based metabolomics
 
-**👈Please select <u>Extract chemicals</u> in the sidebar to start.**
+**👈Please select _Extract chemicals_ in the sidebar to start.**
 
 ##### About
 
