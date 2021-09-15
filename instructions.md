@@ -1,4 +1,4 @@
-## Virtual Metabolomics Mass Spectrometer
+# Virtual Metabolomics Mass Spectrometer
 
 ------
 
