@@ -20,7 +20,6 @@ from simulator import *
 from summary import *
 
 main_out_dir = "/home/bastian/PycharmProjects/vimms-gui/results"
-out_file = "results.mzML"
 
 def main():
     # Render the readme as markdown using st.markdown.
