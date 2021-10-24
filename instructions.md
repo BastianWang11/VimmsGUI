@@ -5,7 +5,7 @@
 ------
 a programmable and modular framework that simulates fragmentation strategies in tandem mass spectrometry-based metabolomics
 
-**👈Please _Upload file first_ and select _Extract chemicals_ in the sidebar to start.**
+**👈Please select _Run simulation_ first and _Upload file_ in the sidebar to start.**
 
 ##### About
 
