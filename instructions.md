@@ -7,6 +7,8 @@ A programmable and modular framework that simulates fragmentation strategies in 
 
 **👈Please select _Run simulation_ in the sidebar and _Upload file_ first to start.**
 
+**Need a help?👇**
+
 ##### About
 
 Wandy, Joe, et al. "*In Silico Optimization of Mass Spectrometry Fragmentation Strategies in Metabolomics.*" Metabolites 9.10 (2019): 219. https://www.mdpi.com/2218-1989/9/10/219
